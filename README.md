@@ -1,0 +1,2 @@
+# ntcoin
+ntcoin
